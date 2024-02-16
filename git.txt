@@ -1,4 +1,4 @@
 First line from remote
 Second line from local
 Third line from remote
-Fourth line from local_branch
+Fourth line from remote_branch
